@@ -4938,10 +4938,8 @@ a.badge:focus, a.badge:hover {
 .jumbotron {
   padding: 2rem 1rem;
   /*margin-bottom: 2rem;*/
-  background: url('images/poison-frog.jpg') center bottom fixed;
-  background-size: cover;
   /*border-radius: 0.3rem;*/
-  min-height: 500px;
+  min-height: 400px;
 }
 
 @media (min-width: 576px) {
