@@ -16,13 +16,14 @@
   </head>
 
   <body class="article article_symposia">
-    <nav class="navbar sticky-top navbar-light navbar-toggleable-md">
-      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+    <nav class="navbar navbar-toggleable-md navbar-inverse bg-inverse sticky-top">
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#icst-nav" aria-controls="icst-nav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
-      <a class="navbar-brand" href="../index.html"><img src="../images/logos/logo.svg"></a>
-      <div class="collapse navbar-collapse">
-        <ul class="navbar-nav ml-auto">
+      <a class="navbar-brand" href="../index.html"><img src="../images/logos/logo.svg" width="100px"></a>
+
+      <div class="collapse navbar-collapse" id="icst-nav">
+        <ul class="navbar-nav ml-auto text-uppercase">
           <li class="nav-item">
             <a class="nav-link" href="#">Register</a>
           </li>
@@ -34,22 +35,63 @@
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="/index.html" data-toggle="dropdown">About the conference</a>
-            <div class="dropdown-menu">
-              <a class="dropdown-item" href="#">Background</a>
-              <a class="dropdown-item" href="#">Objectives and Topics</a>
-              <a class="dropdown-item" href="#">Committee</a>
-            </div>
+              <div class="dropdown-menu">
+                <a class="dropdown-item" href="#">Background</a>
+                <a class="dropdown-item" href="#">Objectives and Topics</a>
+                <a class="dropdown-item" href="#">Committee</a>
+              </div>
           </li>
           <li class="nav-item">
-            &nbsp;&nbsp;&nbsp;<a href="https://epaper.uasc.ugm.ac.id/Events/detail/5" class="btn btn-success">Submit paper</a>
+            &nbsp;&nbsp;&nbsp;<a href="https://epaper.uasc.ugm.ac.id/Events/detail/5" class="btn btn-success">Submit abstract</a>
           </li>
         </ul>
       </div>
     </nav>
-    <div class="container">
-      <h1>Symposia</h1>
-<p>There will be four symposia at this year's conference: ANNUM, computer science and engineering, OMICS: from genomics to metabolomics, and Geomaritime.</p>
-    </div>
+
+    <div class="container py-5">
+      <div class="row">
+          <div class="col-lg-3">
+            <div class="card" style="border-color: transparent;">
+              <img class="card-img-top" src="images/icons/call-for-papers-1.svg" alt="Call for papers" style="width: 125px; margin: auto;">
+              <div class="card-block">
+                <h3 class="card-title text-uppercase text-center" style="font-weight: 300">5<sup>th</sup> ANNUM</h3>
+                <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent in neque dignissim, auctor quam eu, imperdiet neque.</p>
+                <a href="article/author-guidelines.html" class="btn btn-primary">Read author guidelines</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3">
+            <div class="card" style="border-color: transparent;">
+              <img class="card-img-top" src="images/icons/symposia-1.svg" alt="Satellite events" style="width: 125px; margin: auto;">
+              <div class="card-block">
+                <h3 class="card-title text-uppercase text-center" style="font-weight: 300">2<sup>nd</sup> Computers Symposium</h3>
+                <p class="card-text">There will be four satellite events at this year's conference: ANNUM, computer science and engineering, OMICS: from genomics to metabolomics, and Geomaritime.</p>
+                <a href="article/symposia.html" class="btn btn-primary">See details</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3">
+            <div class="card" style="border-color: transparent;">
+              <img class="card-img-top" src="images/icons/checklist-1.svg" alt="Fees and important dates" style="width: 125px; margin: auto;">
+              <div class="card-block">
+                <h3 class="card-title text-uppercase text-center" style="font-weight: 300">2<sup>nd</sup> Geomaritime Symposium</h3>
+                <p class="card-text">Sed at arcu vel eros accumsan condimentum. Pellentesque sed quam et risus consequat laoreet ut nec sapien.</p>
+                <a href="#" class="btn btn-primary">Read more</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3">
+            <div class="card" style="border-color: transparent;">
+              <img class="card-img-top" src="images/icons/register-1.svg" alt="Register as a non-presenter" style="width: 125px; margin: auto;">
+              <div class="card-block">
+                <h3 class="card-title text-uppercase text-center" style="font-weight: 300">1<sup>st</sup> OMICS Symposium: from Genomics to Metabolomics</h3>
+                <p class="card-text">Nulla auctor nulla vel erat pharetra iaculis non aliquam nunc. Nam non risus at risus laoreet finibus.</p>
+                <a href="#" class="btn btn-primary">Register now</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
 
 <footer class="footer">
   <div class="container py-4">
