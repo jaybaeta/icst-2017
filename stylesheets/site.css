@@ -2518,21 +2518,21 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
 .has-danger .col-form-label,
 .has-danger .form-check-label,
 .has-danger .custom-control {
-  color: #d9534f;
+  color: #e02130;
 }
 
 .has-danger .form-control {
-  border-color: #d9534f;
+  border-color: #e02130;
 }
 
 .has-danger .input-group-addon {
-  color: #d9534f;
-  border-color: #d9534f;
+  color: #e02130;
+  border-color: #e02130;
   background-color: #fdf7f7;
 }
 
 .has-danger .form-control-danger {
-  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23d9534f' viewBox='-2 -2 7 7'%3E%3Cpath stroke='%23d9534f' d='M0 0l3 3m0-3L0 3'/%3E%3Ccircle r='.5'/%3E%3Ccircle cx='3' r='.5'/%3E%3Ccircle cy='3' r='.5'/%3E%3Ccircle cx='3' cy='3' r='.5'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23e02130' viewBox='-2 -2 7 7'%3E%3Cpath stroke='%23e02130' d='M0 0l3 3m0-3L0 3'/%3E%3Ccircle r='.5'/%3E%3Ccircle cx='3' r='.5'/%3E%3Ccircle cy='3' r='.5'/%3E%3Ccircle cx='3' cy='3' r='.5'/%3E%3C/svg%3E");
 }
 
 .form-inline {
@@ -2850,8 +2850,8 @@ fieldset[disabled] a.btn {
 
 .btn-danger {
   color: #fff;
-  background-color: #d9534f;
-  border-color: #d9534f;
+  background-color: #e02130;
+  border-color: #e02130;
 }
 
 .btn-danger:hover {
@@ -2866,8 +2866,8 @@ fieldset[disabled] a.btn {
 }
 
 .btn-danger.disabled, .btn-danger:disabled {
-  background-color: #d9534f;
-  border-color: #d9534f;
+  background-color: #e02130;
+  border-color: #e02130;
 }
 
 .btn-danger:active, .btn-danger.active,
@@ -3029,16 +3029,16 @@ fieldset[disabled] a.btn {
 }
 
 .btn-outline-danger {
-  color: #d9534f;
+  color: #e02130;
   background-image: none;
   background-color: transparent;
-  border-color: #d9534f;
+  border-color: #e02130;
 }
 
 .btn-outline-danger:hover {
   color: #fff;
-  background-color: #d9534f;
-  border-color: #d9534f;
+  background-color: #e02130;
+  border-color: #e02130;
 }
 
 .btn-outline-danger:focus, .btn-outline-danger.focus {
@@ -3047,15 +3047,15 @@ fieldset[disabled] a.btn {
 }
 
 .btn-outline-danger.disabled, .btn-outline-danger:disabled {
-  color: #d9534f;
+  color: #e02130;
   background-color: transparent;
 }
 
 .btn-outline-danger:active, .btn-outline-danger.active,
 .show > .btn-outline-danger.dropdown-toggle {
   color: #fff;
-  background-color: #d9534f;
-  border-color: #d9534f;
+  background-color: #e02130;
+  border-color: #e02130;
 }
 
 .btn-link {
@@ -4548,8 +4548,8 @@ tbody.collapse.show {
 }
 
 .card-danger {
-  background-color: #d9534f;
-  border-color: #d9534f;
+  background-color: #e02130;
+  border-color: #e02130;
 }
 
 .card-danger .card-header,
@@ -4584,7 +4584,7 @@ tbody.collapse.show {
 
 .card-outline-danger {
   background-color: transparent;
-  border-color: #d9534f;
+  border-color: #e02130;
 }
 
 .card-inverse {
@@ -4939,7 +4939,7 @@ a.badge:focus, a.badge:hover {
 }
 
 .badge-danger {
-  background-color: #d9534f;
+  background-color: #e02130;
 }
 
 .badge-danger[href]:focus, .badge-danger[href]:hover {
@@ -6134,7 +6134,7 @@ a.bg-warning:focus, a.bg-warning:hover {
 }
 
 .bg-danger {
-  background-color: #d9534f !important;
+  background-color: #e02130 !important;
 }
 
 a.bg-danger:focus, a.bg-danger:hover {
@@ -9220,7 +9220,7 @@ a.text-warning:focus, a.text-warning:hover {
 }
 
 .text-danger {
-  color: #d9534f !important;
+  color: #e02130 !important;
 }
 
 a.text-danger:focus, a.text-danger:hover {
