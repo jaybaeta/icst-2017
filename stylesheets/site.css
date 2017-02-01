@@ -9340,8 +9340,8 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
-.footer {
-  /*position: absolute;*/
+.footer { /* Commenting out sticky until needed because of background colour bug */
+  /*position: absolute;*/ 
   /*bottom: 0;*/
   /*width: 100%;*/
   /*height: 300px;*/
