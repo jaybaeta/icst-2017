@@ -3222,7 +3222,7 @@ tbody.collapse.show {
 }
 
 .dropdown-item:focus, .dropdown-item:hover {
-  color: rgba(0, 0, 0, 0.6);;
+  color: rgba(0, 0, 0, 0.8);;
   text-decoration: none;
   background-color: #dee8f8;
 }
