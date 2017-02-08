@@ -9350,4 +9350,14 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   font-size: 90%;
 }
 
+@media (min-width: 992px) {
+  .intro-left-col {
+    padding-right: 3rem !important;
+  }
+
+  .intro-right-col {
+    padding-left: 3rem !important;
+  }
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
