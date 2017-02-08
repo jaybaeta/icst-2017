@@ -9360,4 +9360,10 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
+@media (max-width: 991px) {
+  .intro-right-col {
+    padding-top: 2rem;
+  }
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
