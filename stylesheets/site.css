@@ -2213,16 +2213,16 @@ pre code {
 .table-danger,
 .table-danger > th,
 .table-danger > td {
-  background-color: #f2dede;
+  background-color: #fbd7d9;
 }
 
 .table-hover .table-danger:hover {
-  background-color: #ebcccc;
+  background-color: #f9c5c7;
 }
 
 .table-hover .table-danger:hover > td,
 .table-hover .table-danger:hover > th {
-  background-color: #ebcccc;
+  background-color: #f9c5c7;
 }
 
 .thead-inverse th {
@@ -5035,8 +5035,8 @@ a.badge:focus, a.badge:hover {
 }
 
 .alert-danger {
-  background-color: #f2dede;
-  border-color: #ebcccc;
+  background-color: #fbd7d9;
+  border-color: #f9c5c7;
   color: #a94442;
 }
 
@@ -5329,7 +5329,7 @@ button.list-group-item-warning.active {
 
 .list-group-item-danger {
   color: #a94442;
-  background-color: #f2dede;
+  background-color: #fbd7d9;
 }
 
 a.list-group-item-danger,
@@ -5346,7 +5346,7 @@ a.list-group-item-danger:focus, a.list-group-item-danger:hover,
 button.list-group-item-danger:focus,
 button.list-group-item-danger:hover {
   color: #a94442;
-  background-color: #ebcccc;
+  background-color: #f9c5c7;
 }
 
 a.list-group-item-danger.active,
