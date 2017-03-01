@@ -1,4 +1,4 @@
-<a href="http://icst-2017.ugm.ac.id/" style="text-align: center;"><img src="http://icst-2017.ugm.ac.id/images/logos/logo.svg" align="center" height="200px"></a>
+<a href="http://icst-2017.ugm.ac.id/"><img src="http://icst-2017.ugm.ac.id/images/logos/logo.svg" height="142px" align="right"></a>
 
 # Website for the ICST 2017
 
