@@ -1,4 +1,4 @@
-:!(images/logos/logo.svg "ICST 2017"):
+<p style="text-align: center"><img src="http://icst-2017.ugm.ac.id/images/logos/logo.svg"></p>
 
 # Website for the ICST 2017
 
