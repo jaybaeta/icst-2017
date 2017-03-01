@@ -1,4 +1,4 @@
-# ![ICST 2017](images/logos/logo.svg)
+![ICST 2017](images/logos/logo.svg)
 
 # Website for the ICST 2017
 
