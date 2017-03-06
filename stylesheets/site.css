@@ -548,6 +548,7 @@ h1, .h1 {
 
 h2, .h2 {
   font-size: 2rem;
+  line-height: 1.7 !important;
 }
 
 h3, .h3 {
