@@ -9366,4 +9366,10 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
+@media (max-width: 575px) {
+  .card-float {
+    width: 100%;
+  }
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
