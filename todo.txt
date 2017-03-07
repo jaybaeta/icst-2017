@@ -4,4 +4,3 @@ to do
 add credits:
 ------------
 
-http://realfavicongenerator.net

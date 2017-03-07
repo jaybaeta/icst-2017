@@ -8,15 +8,20 @@ This is the website for the International Conference on Science and Technology 2
 
 ### Development
 
++ Developed by [@jaybaeta](https://github.com/jaybaeta/icst-2017), except for content for the Computer Symposium, which is by the [Faculty of Mathematics and Natural Sciences, Universitas Gadjah Mada](http://mipa.ugm.ac.id/fix/?lang=en).
 + Built using [Middleman](https://github.com/middleman/middleman)
 + Based on [Bootstrap 4.0.0-alpha.6](https://v4-alpha.getbootstrap.com/)
 
 ### Icons
 
-+ [Font Awesome](http://fontawesome.io)
-+ [Webalys](https://www.iconfinder.com/webalys)
-+ [Boca Tutor](https://www.iconfinder.com/bocatutor)
++ [Font Awesome](http://fontawesome.io); [multiple licenses](http://fontawesome.io/license/)
++ [Webalys](https://www.iconfinder.com/webalys); [free for commercial use](https://www.iconfinder.com/iconsets/kameleon-free-pack-rounded)
++ [Boca Tutor](https://www.iconfinder.com/bocatutor); [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 + [Sergey Toropov](https://www.iconfinder.com/Sergt">Sergey Toropov)
+
+### Favicon
+
++ [RealFaviconGenerator](http://realfavicongenerator.net/) by [@realfavicongenerator](https://github.com/realfavicongenerator)
 
 ### Jumbotron
 
