@@ -9373,4 +9373,10 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
+@media (max-width: 462px) {
+  .important-details {
+    margin-top: 10px;
+  }
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
