@@ -1,0 +1,385 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"id",
+				"id_metode"
+			],
+			[
+				"pan",
+				"panjang_kalimat"
+			],
+			[
+				"nama",
+				"nama_metode"
+			],
+			[
+				"nam",
+				"nama_metode"
+			],
+			[
+				"co",
+				"cost"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/404.html",
+		"/D/a31a886e3ff574667359ad2ec7c37f8a-5cc7ba6d624c7d52e4de9c5d172b43aa9cdf2357/a31a886e3ff574667359ad2ec7c37f8a-5cc7ba6d624c7d52e4de9c5d172b43aa9cdf2357/ICHS 2017 404 content",
+		"/C/xampp/htdocs/icst-2017/index.html",
+		"/C/xampp/htdocs/icst-2017/article/about-ugm.html",
+		"/C/xampp/htdocs/icst-2017/article/about.html",
+		"/C/xampp/htdocs/icst-2017/article/annum.html",
+		"/C/xampp/htdocs/icst-2017/article/author-guidelines.html",
+		"/C/xampp/htdocs/icst-2017/article/downloads.html",
+		"/C/xampp/htdocs/icst-2017/article/fees.html",
+		"/C/xampp/htdocs/icst-2017/404.html",
+		"/C/xampp/htdocs/icst-2017/article/computer.html",
+		"/C/xampp/htdocs/icst-2017/article/geomaritime.html",
+		"/C/xampp/htdocs/icst-2017/article/infrastructure-technology.html",
+		"/C/xampp/htdocs/icst-2017/article/omics.html",
+		"/C/xampp/htdocs/icst-2017/article/submissions.html",
+		"/C/xampp/htdocs/icst-2017/article/symposia.html",
+		"/C/xampp/htdocs/icst-2017/article/venue.html",
+		"/D/icst-2017-master/icst-2017-master/index.html",
+		"/D/BPP/icst-2017-master/icst-2017-master/index.html",
+		"/D/BPP/icst-2017-master/icst-2017-master/404.html",
+		"/D/BPP/icst-2017-master/icst-2017-master/article/about.html",
+		"/D/BPP/icst-2017-master/icst-2017-master/article/about-ugm.html",
+		"/D/BPP/icst-2017-master/icst-2017-master/article/annum.html",
+		"/D/BPP/icst-2017-master/icst-2017-master/article/author-guidelines.html",
+		"/D/BPP/icst-2017-master/icst-2017-master/article/computer.html",
+		"/D/BPP/icst-2017-master/icst-2017-master/article/downloads.html",
+		"/D/BPP/icst-2017-master/icst-2017-master/article/fees.html",
+		"/D/BPP/icst-2017-master/icst-2017-master/article/geomaritime.html",
+		"/D/BPP/icst-2017-master/icst-2017-master/article/infrastructure-technology.html",
+		"/D/BPP/icst-2017-master/icst-2017-master/article/omics.html",
+		"/D/BPP/icst-2017-master/icst-2017-master/article/submissions.html",
+		"/D/BPP/icst-2017-master/icst-2017-master/article/symposia.html",
+		"/D/BPP/icst-2017-master/icst-2017-master/article/venue.html",
+		"/E/Bismillah Skripsi Sukses/final/siswa_kuesioner.php",
+		"/E/Bismillah Skripsi Sukses/final/admin_rekomendasi_industri.php",
+		"/E/Bismillah Skripsi Sukses/backup SI/prakerin/siswa_kuesioner.php",
+		"/C/xampp/htdocs/rekom_metode/2_input_metode.php",
+		"/C/xampp/htdocs/rekom_metode/derajat_keanggotaan.php",
+		"/C/xampp/htdocs/rekom_metode/rekomendasi.php",
+		"/E/Bismillah Skripsi Sukses/backup SI/prakerin/siswa_jurnal.php",
+		"/C/xampp/htdocs/prakerin/admin_rekomendasi_industri.php",
+		"/C/xampp/htdocs/rekom_metode/data_metode.php",
+		"/C/xampp/htdocs/rekom_metode/a.php",
+		"/C/xampp/htdocs/s1/siswa_kuesioner.php",
+		"/C/xampp/htdocs/rekom_metode/input_data_metode.php",
+		"/C/xampp/htdocs/s1/admin_rekomendasi_industri.php",
+		"/C/xampp/htdocs/prakerin/admin_derajat_keanggotaan.php",
+		"/C/xampp/htdocs/s1/admin_fuz_fungsi_keanggotaan.php",
+		"/C/xampp/htdocs/prakerin/siswa_kuesioner.php",
+		"/C/xampp/htdocs/prakerin/admin_edit_data_siswa.php",
+		"/C/xampp/htdocs/prakerin/siswa_jurnal.php",
+		"/C/xampp/htdocs/prakerin/coba_derajat.php",
+		"/C/xampp/htdocs/rekom_metode/h.php",
+		"/C/xampp/htdocs/rekom_metode/coba_derajat.php",
+		"/C/xampp/htdocs/prakerin/admin_kuesioner_siswa.php",
+		"/C/xampp/htdocs/prakerin/koneksi.php",
+		"/C/xampp/htdocs/rekom_metode/koneksi.php",
+		"/C/xampp/htdocs/prakerin/koneksi1.php",
+		"/C/xampp/htdocs/rekom_metode/koneksi1.php",
+		"/H/S1/Kuliah/resources/web/Success/SRL/print.php",
+		"/C/xampp/htdocs/SRL/lihat_nilai.php",
+		"/D/j.html",
+		"/H/S1/Kuliah/resources/web/SRL/about-SRL.php",
+		"/C/xampp/htdocs/SRL/s4.php",
+		"/C/xampp/htdocs/SRL/s3.php",
+		"/H/S1/Kuliah/resources/web/Success/SRL/s1.php",
+		"/C/xampp/htdocs/SRL/s5.php",
+		"/C/xampp/htdocs/SRL/s2.php",
+		"/D/s1.html.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 360.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\icst-2017",
+			"C:\\xampp\\htdocs\\icst-2017\\article",
+			"C:\\xampp\\htdocs\\icst-2017"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ICST2017-poster.png",
+			"ICST2017-poster",
+			"<div class=\"col-sm-12 text-center\">\n            <img src=\"images/logos/ugm.gif\" class=\"px-1\" height=\"60px\"> \n            <img src=\"images/logos/hki.svg\" class=\"px-1\" height=\"60px\"> \n            <img src=\"images/logos/igi.png\" class=\"px-1\" height=\"60px\">\n            <img src=\"images/logos/uniid.png\" class=\"px-1\" height=\"60px\"><br>\n            <hr style=\"border-color: #e3e3f3; width: 80%;\" class=\"mx-auto my-4\">",
+			"<div class=\"col-sm-12 text-center\">\n            <img src=\"../images/logos/ugm.gif\" class=\"px-1\" height=\"60px\"> \n            <img src=\"../images/logos/hki.svg\" class=\"px-1\" height=\"60px\"> \n            <img src=\"../images/logos/igi.png\" class=\"px-1\" height=\"60px\">\n            <img src=\"../images/logos/uniid.png\" class=\"px-1\" height=\"60px\"><br>\n            <hr style=\"border-color: #e3e3f3; width: 80%;\" class=\"mx-auto my-4\">",
+			"<div class=\"col-sm-12 text-center\">\n            <img src=\"images/logos/ugm.gif\" class=\"px-1\" height=\"60px\"> \n            <img src=\"images/logos/hki.svg\" class=\"px-1\" height=\"60px\"> \n            <img src=\"images/logos/igi.png\" class=\"px-1\" height=\"60px\"> <br>\n            <hr style=\"border-color: #e3e3f3; width: 80%;\" class=\"mx-auto my-4\">",
+			"<div class=\"col-sm-12 text-center\">\n            <img src=\"images/logos/ugm.gif\" class=\"px-1\" height=\"60px\"> \n            <img src=\"images/logos/hki.svg\" class=\"px-1\" height=\"60px\"> \n            <img src=\"images/logos/igi.png\" class=\"px-1\" height=\"60px\"><br>\n            <hr style=\"border-color: #e3e3f3; width: 80%;\" class=\"mx-auto my-4\">",
+			"<div class=\"col-sm-12 text-center\">\n            <img src=\"images/logos/ugm.gif\" class=\"px-1\" height=\"60px\"> \n            <img src=\"images/logos/hki.svg\" class=\"px-1\" height=\"60px\"> \n            <img src=\"images/logos/igi.png\" class=\"px-1\" height=\"60px\">\n            <img src=\"images/logos/uniid.png\" class=\"px-1\" height=\"60px\"><br>\n            <hr style=\"border-color: #e3e3f3; width: 80%;\" class=\"mx-auto my-4\">",
+			"<div class=\"col-sm-12 text-center\">\n            <img src=\"../images/logos/ugm.gif\" class=\"px-1\" height=\"60px\"> \n            <img src=\"../images/logos/hki.svg\" class=\"px-1\" height=\"60px\"> \n            <img src=\"../images/logos/igi.png\" class=\"px-1\" height=\"60px\"> <br>\n            <hr style=\"border-color: #e3e3f3; width: 80%;\" class=\"mx-auto my-4\">",
+			"akurasi",
+			"panjang",
+			"bpanj",
+			"panjang",
+			"fire",
+			"Bobot Penugasan",
+			"Kesesuaian Tugas dan Keahlian",
+			"Jam Kerja",
+			"tabel_fuz_der",
+			"insert",
+			"$kelompok",
+			"reset",
+			"nilai_6",
+			"temp",
+			"\"jamkerja\"",
+			"bobot_penugasan",
+			"kesesuaian_tugas",
+			"jam_kerja",
+			"name=\"bobot_penugasan\"",
+			"name='kesesuaian_tugas'",
+			"name='jam_kerja'",
+			"\"bobotpenugasan\"",
+			"\"kesesuaian\"",
+			"jamkerja",
+			"bobot_penugasan",
+			"kesesuaian_tugas",
+			"jam_kerja",
+			"tabel",
+			"derajat",
+			"id_dera",
+			"insert",
+			" jamkerja_",
+			"databobot",
+			"datatugas_keahlian",
+			"datajam_kerja",
+			"tabel_fuz_derajat",
+			"id_industri",
+			"tabel_fuz_kuesioner_siswa",
+			"tabel_fuz_kriteria",
+			"derajat",
+			"id_dera",
+			"insert",
+			"id_derajat",
+			"insert",
+			"id_industri",
+			"bobotpenugasan_",
+			"kesesuaian_",
+			"jamkerja_",
+			"bobot_penugasan",
+			"tugas_keahlian",
+			"jam_kerja",
+			"tabel_fuz_derajat",
+			"bobot_penugasan",
+			"tugas_keahlian",
+			"jam_kerja",
+			"id_industri",
+			"tabel_fuz_kuesioner_siswa",
+			"tabel_fuz_kriteria",
+			"tabel_fuz_dera",
+			"tabel_dera",
+			"derajat",
+			"id",
+			"tabel_fuz_kuesioner_siswa",
+			"tabel_fuz_kriteria",
+			"tabel_fuz_kelompok",
+			"kelompok",
+			"tabel_fuz_kuesioner_siswa",
+			"tabel_fuz_kriteria",
+			"tabel_fuz_kelompok",
+			"tabel",
+			"?>"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<div class=\"col-sm-12 text-center\">\n            <img src=\"../images/logos/ugm.gif\" class=\"px-1\" height=\"60px\"> \n            <img src=\"../images/logos/hki.svg\" class=\"px-1\" height=\"60px\"> \n            <img src=\"../images/logos/igi.png\" class=\"px-1\" height=\"60px\">\n            <img src=\"../images/logos/uniid.png\" class=\"px-1\" height=\"60px\"><br>\n            <hr style=\"border-color: #e3e3f3; width: 80%;\" class=\"mx-auto my-4\">",
+			"<div class=\"col-sm-12 text-center\">\n            <img src=\"images/logos/ugm.gif\" class=\"px-1\" height=\"60px\"> \n            <img src=\"images/logos/hki.svg\" class=\"px-1\" height=\"60px\"> \n            <img src=\"images/logos/igi.png\" class=\"px-1\" height=\"60px\">\n            <img src=\"images/logos/uniid.png\" class=\"px-1\" height=\"60px\"><br>\n            <hr style=\"border-color: #e3e3f3; width: 80%;\" class=\"mx-auto my-4\">",
+			"Panjang Kalimat",
+			"cost",
+			"akurasi",
+			"\"akurasi\"",
+			"panjang_kalimat",
+			"cost",
+			"akurasi",
+			"name=\"panjang_kalimat\"",
+			"name='cost'",
+			"name='akurasi'",
+			"\"panjang_kalimat\"",
+			"\"cost\"",
+			"akurasi",
+			"panjang_kalimat",
+			"cost",
+			"akurasi",
+			" akurasi_",
+			"datapanjang_kalimat",
+			"datacost",
+			"dataakurasi",
+			"tabel_derajat",
+			"id_metode",
+			"tabel_nilai_metode",
+			"tabel_kriteria",
+			"id_metode",
+			"panjang_kalimat_",
+			"cost_",
+			"akurasi_",
+			"panjang_kalimat",
+			"cost",
+			"akurasi",
+			"tabel_derajat",
+			"panjang_kalimat",
+			"cost",
+			"akurasi",
+			"id_metode",
+			"tabel_nilai_metode",
+			"tabel_kriteria",
+			"tabel_nilai_metode",
+			"tabel_kriteria",
+			"tabel_kelompok",
+			"tabel_nilai_metode",
+			"tabel_kriteria",
+			"tabel_kelompok"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\rekom_metode\\coba_derajat.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
