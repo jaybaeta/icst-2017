@@ -9385,4 +9385,10 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
+.rounded-square {
+  border-bottom-right-radius: 0.7rem;
+  border-top-right-radius: 0.7rem;
+  border-bottom-left-radius: 0.7rem;
+  border-top-left-radius: 0.7rem;
+}
 /*# sourceMappingURL=bootstrap.css.map */
