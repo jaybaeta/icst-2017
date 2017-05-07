@@ -9,10 +9,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="210mm"
-   height="148mm"
+   height="137.03798mm"
    id="svg11"
-   sodipodi:docname="ugm.svg"
-   viewBox="0 0 793.7008 559.37009"
+   sodipodi:docname="ugm-blue.svg"
+   viewBox="0 0 793.7008 517.93883"
    inkscape:version="0.92.1 r">
   <metadata
      id="metadata17">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,21 +41,25 @@
      inkscape:window-height="708"
      id="namedview13"
      showgrid="false"
-     inkscape:zoom="0.47453834"
-     inkscape:cx="149.68715"
-     inkscape:cy="385.72557"
+     inkscape:zoom="0.5"
+     inkscape:cx="179.74464"
+     inkscape:cy="254.68476"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="g4503"
      units="mm"
-     borderlayer="true" />
+     borderlayer="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <g
      id="Layer1000"
-     transform="translate(0,-1.0137963)">
+     transform="translate(-1e-4,-21.727545)">
     <path
-       d="M 1e-4,1.0134212 V 560.3835 H 793.70089 V 1.0134212 Z"
-       style="fill:#073c64;fill-rule:evenodd;stroke-width:0.97008073"
+       d="M 1e-4,21.727545 V 539.66639 H 793.70089 V 21.727545 Z"
+       style="fill:#073c64;fill-rule:evenodd;stroke-width:0.93346387"
        id="path2"
        inkscape:connector-curvature="0" />
     <g
