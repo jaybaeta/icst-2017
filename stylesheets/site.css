@@ -9340,6 +9340,8 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
+/* FOOTER */
+
 .footer { /* Commenting out sticky until needed because of background colour bug */
   /*position: absolute;*/ 
   /*bottom: 0;*/
@@ -9349,6 +9351,8 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   border-top: 1px solid #eaeaf6;
   font-size: 90%;
 }
+
+/* COLUMNS IN BLUE AREA */
 
 @media (min-width: 992px) {
   .intro-left-col {
@@ -9366,6 +9370,8 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
+/* FLOATED CARDS WITHIN CONTENT */
+
 @media (max-width: 575px) {
   .card-float {
     width: 100% !important;
@@ -9373,16 +9379,37 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
+/* IMPORTANT DETAILS */
+
 @media (max-width: 462px) {
   .important-details {
     margin-top: 10px;
   }
 }
 
+/* FIX NON-WRAPPING ON LONG ITEMS */
+
 @media (max-width: 500px) {
   .dropdown-item {
     white-space: normal;
   }
+}
+
+/* SOCIAL MEDIA ROW */
+
+.social-media-row {
+  background-color: rgba(222, 221, 219, 0.7) !important;
+  border-top: 1px solid rgba(217, 216, 214, 0.7);
+}
+
+.social-media-row a {
+  font-size: 1.5rem; 
+  white-space:nowrap;
+  color: #292B2C;
+}
+
+.social-media-row a:hover {
+  color: #1D73CC;
 }
 
 /*# sourceMappingURL=bootstrap.css.map */
