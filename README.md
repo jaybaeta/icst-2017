@@ -6,11 +6,17 @@ This is the website for the International Conference on Science and Technology 2
 
 ## Credits
 
-### Contributors
+### Main contributors
 
 + [@jaybaeta](https://github.com/jaybaeta)
 + [@akhsin](https://github.com/akhsin)
 + [Faculty of Mathematics and Natural Sciences, Universitas Gadjah Mada](http://mipa.ugm.ac.id/fix/?lang=en)
+
+### Supporting contributors
+
++ [@tikadyota](https://github.com/tikadyota)
++ [@w1lldone](https://github.com/w1lldone)
++ [@davieiycode](https://github.com/davieiycode)
 
 ### Development
 
