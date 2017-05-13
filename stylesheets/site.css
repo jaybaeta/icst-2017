@@ -9416,7 +9416,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 
 @media (max-width: 500px) {
   .program-title{
-    font-size: 5vw !important;
+    font-size: 4.5vw !important;
   }  
 }
 
