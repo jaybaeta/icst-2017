@@ -730,7 +730,7 @@ samp {
 code {
   padding: 0.2rem 0.4rem;
   font-size: 90%;
-  color: #bd4147;
+  color: #3c74ac;
   background-color: #f7f7f9;
   border-radius: 0.25rem;
 }
@@ -9410,6 +9410,50 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 
 .social-media-row a:hover {
   color: #1D73CC;
+}
+
+/* CONFERENCE PROGRAM */
+
+@media (max-width: 500px) {
+  .program-title{
+    font-size: 4.5vw !important;
+  }  
+}
+
+.program-title{
+  font-size: 1.5rem;
+  font-weight: 300;
+}  
+
+.schedule-item{
+  border-bottom: 1px solid #e3e3f3;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  }
+
+@media (max-width: 1199px) {
+  .program-speaker {
+    padding: 0;
+  }
+}
+
+.program-speaker-img {
+  width: 100%; 
+  margin: auto; 
+  vertical-align: text-top; 
+  border-radius: 50%;
+  padding: 1%;
+}
+
+@media (max-width: 575px) {
+  .program-speaker-img {
+    width: 135px;
+    padding-bottom: 10px !important;
+  }
+
+  .program-speaker {
+    padding-left: 3% !important;
+  }
 }
 
 /*# sourceMappingURL=bootstrap.css.map */
