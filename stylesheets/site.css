@@ -9521,6 +9521,12 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   padding-left: 20px !important;
 }
 
+@media (max-width: 575px) {
+  .schedule-location {
+    padding-left: 0 !important;
+  }
+}
+
 /* Speaker images */
 
 .program-speaker-img {
