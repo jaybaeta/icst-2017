@@ -50,7 +50,7 @@ All symposia images are licensed under the Creative Commons via Flickr.
 
 ### Other images
 
-+ Saman dance image in conference program by [Jerry Toisa](https://www.flickr.com/photos/toisa/11418766984/)
++ Saman dance image in conference program by [Jerry Toisa](https://www.flickr.com/photos/toisa/11418766984/); [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
 
 ## License
 
