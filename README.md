@@ -48,6 +48,10 @@ All symposia images are licensed under the Creative Commons via Flickr.
 + OMICS: [The Barry Callebaut Group](https://www.flickr.com/photos/barrycallebautgroup/22507987442/); [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
 + Engineering: [UC Davis College of Engineering](https://www.flickr.com/photos/ucdaviscoe/9371145701/); [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
 
+### Other images
+
++ Saman dance image in conference program by [Jerry Toisa](https://www.flickr.com/photos/toisa/11418766984/); [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+
 ## License
 
 © 2017 Joaquim Baeta under the MIT License.
