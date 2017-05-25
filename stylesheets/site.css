@@ -9553,4 +9553,20 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
+/* REGISTER BUTTON IN NAVBAR */
+
+@media (max-width: 991px) {
+  .nav-register {
+    position: absolute;
+    right: 5.5rem;
+    padding: 0.55rem 1rem;
+  }
+}
+
+@media (min-width: 992px) {
+  .nav-register {
+    margin-left: 10px;
+  }
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
