@@ -9577,4 +9577,14 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
+@media (max-width: 991px) {
+
+.scrollable-menu {
+    height: auto;
+    max-height: 300px;
+    overflow-x: hidden;
+}
+}
+
+
 /*# sourceMappingURL=bootstrap.css.map */
