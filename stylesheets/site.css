@@ -9581,6 +9581,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 
 .scrollable-menu {
     height: auto;
+    max-height: 100vh;
     max-height: 300px;
     overflow-x: hidden;
 }
