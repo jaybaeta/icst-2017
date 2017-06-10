@@ -9577,15 +9577,15 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
+/* SCROLLABLE MENU */
+
 @media (max-width: 991px) {
-
-.scrollable-menu {
-    height: auto;
-    max-height: 100vh;
-    max-height: 300px;
-    overflow-x: hidden;
+  .scrollable-menu {
+      height: auto;
+      max-height: 100vh;
+      max-height: 300px;
+      overflow-x: hidden;
+  }
 }
-}
-
 
 /*# sourceMappingURL=bootstrap.css.map */
