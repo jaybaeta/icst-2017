@@ -9601,4 +9601,28 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
+/* REGISTRATION CLOSED TEXT */
+
+.registration-closed-big-text {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+.registration-closed-medium-text {
+  font-size: 1.3rem;
+  font-weight: 300;
+}
+
+@media (max-width: 767px) {
+  .registration-closed-big-text {
+    font-size: 1.3rem;
+    text-align: left !important;
+  }
+
+  .registration-closed-medium-text {
+    font-size: 1.15rem;
+    text-align: left !important;
+  }
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
