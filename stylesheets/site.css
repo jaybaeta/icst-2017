@@ -9424,15 +9424,30 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 /* Indexed Schedule headings */
 
 .indexed-schedule-heading {  
-  padding: 10px 0;
+  padding: 15px 0;
   margin-left: 0px;
-  margin-right: 0px;
+  margin-right: 0px; 
 }
 
 .indexed-schedule-heading > .col-sm-12 {
   letter-spacing: 2px; 
   text-align: center;
   color: #fff;
+}
+
+.indexed-schedule-heading > .col-sm-12 > h4 {
+  margin-bottom: 0;
+}
+
+.indexed-schedule-col-title {
+  /*font-size: 1.4vw;*/
+
+}
+
+.indexed-schedule-col-title > h5 {
+  margin-bottom: 0;
+  /*font-weight: 400;*/
+
 }
 
 /* Indexed Schedule items */
