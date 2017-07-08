@@ -406,12 +406,6 @@ a {
   text-decoration: none;
 }
 
-.notification-link {
-  color: #FFFFFF;
-  font-weight: bold;
-  text-decoration: none;
-}
-
 a:focus, a:hover {
   color: #014c8c;
 }
