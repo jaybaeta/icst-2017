@@ -9459,7 +9459,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   /*border-bottom: 1px solid #e3e3f3;*/
 }
 
-.indexed-schedule-item > .col-sm-2, .col-sm-8  {
+.indexed-schedule-item > .col-sm-2, .schedule-item > .col-sm-8  {
   padding: 0;
 }
 
@@ -9512,7 +9512,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   border-bottom: 1px solid #e3e3f3;
 }
 
-.schedule-item > .col-sm-2, .col-sm-8  {
+.schedule-item > .col-sm-2, .schedule-item > .col-sm-8  {
   padding: 0;
 }
 
@@ -9534,7 +9534,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   margin-right: 0px;
 }
 
-.schedule-multiple-item > .col-sm-2, .col-sm-8 {
+.schedule-multiple-item > .col-sm-2, .schedule-item > .col-sm-8 {
   padding: 0;
 }
 
