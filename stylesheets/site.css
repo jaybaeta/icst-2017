@@ -9420,59 +9420,57 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   color: #1D73CC;
 }
 
-/* INDEXED SCHEDULE */
-/* Indexed Schedule headings */
+/* LIST OF PRESENTERS */
 
-.indexed-schedule-heading {  
+/* Presenters list headings */
+
+.presenters-list-heading {  
   padding: 15px 0;
   margin-left: 0px;
   margin-right: 0px; 
 }
 
-.indexed-schedule-heading > .col-sm-12 {
+.presenters-list-heading > .col-sm-12 {
   letter-spacing: 2px; 
   text-align: center;
   color: #fff;
 }
 
-.indexed-schedule-heading > .col-sm-12 > h4 {
+.presenters-list-heading > .col-sm-12 > h4 {
   margin-bottom: 0;
 }
 
-.indexed-schedule-col-title {
-  /*font-size: 1.4vw;*/
-
-}
-
-.indexed-schedule-col-title > h5 {
+.presenters-list-col-title > h5 {
   margin-bottom: 0;
-  /*font-weight: 400;*/
-
 }
 
-/* Indexed Schedule items */
+/* Presenters list items */
 
-.indexed-schedule-item {
+.presenters-list-item {
   padding: 5px 0;
   margin-left: 0px;
   margin-right: 0px;
-  /*border-bottom: 1px solid #e3e3f3;*/
 }
 
-.indexed-schedule-item > .col-sm-2, .schedule-item > .col-sm-8  {
+.presenters-list-item > .col-sm-2, .schedule-item > .col-sm-8  {
   padding: 0;
 }
 
-.indexed-schedule-item > .col-sm-8 > .row  {
+.presenters-list-item > .col-sm-8 > .row  {
   margin-right: -20px;
 }
 
 @media (min-width: 992px) {
-  .indexed-schedule-item {
+  .presenters-list-item {
     padding-left: 2%;
   }
 }
 
+@media (max-width: 991px) {
+  .presenters-list-item {
+    border-bottom: 1px solid #e3e3f3;
+  }
+}
 
 /* CONFERENCE PROGRAM */
 
