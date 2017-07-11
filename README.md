@@ -29,6 +29,7 @@ This is the website for the International Conference on Science and Technology 2
 + [Webalys](https://www.iconfinder.com/webalys); [free for commercial use](https://www.iconfinder.com/iconsets/kameleon-free-pack-rounded)
 + [Boca Tutor](https://www.iconfinder.com/bocatutor); [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 + [Sergey Toropov](https://www.iconfinder.com/Sergt); [free for commercial use](https://www.iconfinder.com/iconsets/file-extension-3) (modified)
++ [@jaybaeta](https://github.com/jaybaeta)
 
 ### Favicon
 
