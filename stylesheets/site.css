@@ -9568,6 +9568,10 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   padding: 0;
 }
 
+.schedule-multiple-item > .col-sm-8 {
+  padding-left: 0;
+}
+
 .schedule-multiple-item > .col-sm-8 > .row {
   margin-right: -20px;
 }

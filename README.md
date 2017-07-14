@@ -29,6 +29,7 @@ This is the website for the International Conference on Science and Technology 2
 + [Webalys](https://www.iconfinder.com/webalys); [free for commercial use](https://www.iconfinder.com/iconsets/kameleon-free-pack-rounded)
 + [Boca Tutor](https://www.iconfinder.com/bocatutor); [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 + [Sergey Toropov](https://www.iconfinder.com/Sergt); [free for commercial use](https://www.iconfinder.com/iconsets/file-extension-3) (modified)
++ [@jaybaeta](https://github.com/jaybaeta)
 
 ### Favicon
 
@@ -50,7 +51,7 @@ All symposia images are licensed under the Creative Commons via Flickr.
 
 ### Other images
 
-+ Saman dance image in conference program by [Jerry Toisa](https://www.flickr.com/photos/toisa/11418766984/); [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
++ Traditional dance image in conference program by [Ikhlasul Amal](https://www.flickr.com/photos/ikhlasulamal/3531518307/); [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)
 
 ## License
 
