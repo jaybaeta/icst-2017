@@ -47,7 +47,7 @@ All symposia images are licensed under the Creative Commons via Flickr.
 + Computer: [Amber Case](https://www.flickr.com/photos/caseorganic/4606079980/); [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)
 + Geomaritime: [emjaune](https://www.flickr.com/photos/aimeili/4538999195/); [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)
 + OMICS: [The Barry Callebaut Group](https://www.flickr.com/photos/barrycallebautgroup/22507987442/); [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
-+ Engineering: [UC Davis College of Engineering](https://www.flickr.com/photos/ucdaviscoe/9371145701/); [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
++ Infrastructure Technology: [UC Davis College of Engineering](https://www.flickr.com/photos/ucdaviscoe/9371145701/); [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
 
 ### Other images
 
