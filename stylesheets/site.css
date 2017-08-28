@@ -5432,8 +5432,16 @@ button.close {
 }
 
 .modal-open {
-  overflow: hidden;
+  overflow: scroll;
 }
+
+body.modal-open[style] {
+    padding-right: 0px !important;
+}
+
+.modal::-webkit-scrollbar {
+    width: 0px !important;
+  }
 
 .modal {
   position: fixed;
@@ -5466,7 +5474,7 @@ button.close {
 
 .modal-open .modal {
   overflow-x: hidden;
-  overflow-y: auto;
+  /*overflow-y: auto;*/
 }
 
 .modal-dialog {
