@@ -159,14 +159,30 @@
                   <h5>Dance performance</h5>
                   <button type="button" class="close" data-dismiss="modal">&times;</button>
                 </div>
-                <div class="modal-body">
-                  <img src="../images/conference-images/dance-7.jpg" alt="Dance performance" class="img-fluid">
+                <div class="modal-body" id="dance-7-img">
                   <p class="figure-caption text-right">Credit: Fitri Febriyanto/BPP UGM</p>
                 </div>
               </div>
             </div>
           </div>
         </div>
+        <script type="text/javascript">
+          $('#dance-7').on('show.bs.modal', function (e) {
+            if($('#dance-7-img').length == 0){
+              $('#dance-7-img').prepend('<img src="../images/conference-images/dance-7.jpg" alt="Dance performance" class="img-fluid" id="dance-7-img">')
+            }
+          }
+
+
+          //           $('#dance-7').on('show.bs.modal', function (e) {
+          //   $('#dance-7-img').prepend('<img src="../images/conference-images/dance-7.jpg" alt="Dance performance" class="img-fluid" id="img-remove">')
+          // })
+
+          // $('#dance-7').on('hide.bs.modal'), function (e) {
+          //   $('#img-remove').remove()
+          // }
+        </script>
+
         <!-- Alif, Suharman, Iwik, Nuning, Nanik, Pinta, Unun, and Nurul -->
         <div class="col-lg-3">
           <!-- Image -->
