@@ -9720,4 +9720,38 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
+.btn-flickr {
+  color: #fff;
+  background-color: #ff1981;
+  border-color: #ff1981;
+}
+
+.btn-flickr:hover {
+  color: #fff;
+  background-color: #e61674;
+  border-color: #d9156e;
+}
+
+.btn-flickr:focus, .btn-flickr.focus {
+  -webkit-box-shadow: 0 0 0 2px rgba(2, 117, 216, 0.5);
+          box-shadow: 0 0 0 2px rgba(2, 117, 216, 0.5);
+}
+
+.btn-flickr.disabled, .btn-flickr:disabled {
+  background-color: #ff1981;
+  border-color: #d9156e;
+}
+
+.btn-flickr:active, .btn-flickr.active,
+.show > .btn-flickr.dropdown-toggle {
+  color: #fff;
+  background-color: #e61674;
+  background-image: none;
+  border-color: #d9156e;
+}
+
+
+#
+
+
 /*# sourceMappingURL=bootstrap.css.map */
