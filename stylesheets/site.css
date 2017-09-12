@@ -9696,6 +9696,27 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
+/* THE ICST 2017 IN IMAGES AND WORDS */
+
+/* TEXT */
+
+.images-and-words {
+  font-size: 1.5rem; 
+  font-size: 1.75vmax;
+  font-weight: 300; 
+  text-align: center; 
+  margin-top: auto !important;
+  margin-bottom: auto !important;
+  padding: 1.25em;
+}
+
+@media (max-width: 576px) {
+  .images-and-words {
+    font-size: 1.2rem;
+    font-size: 3.25vmax;
+  }
+}
+
 /* REGISTRATION CLOSED TEXT */
 
 .registration-closed-big-text {
@@ -9749,9 +9770,5 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   background-image: none;
   border-color: #d9156e;
 }
-
-
-#
-
 
 /*# sourceMappingURL=bootstrap.css.map */
