@@ -9701,7 +9701,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 /* TEXT */
 
 .images-and-words {
-  font-size: 1.5rem; 
+  font-size: 1.2rem; 
   font-size: 1.75vmax;
   font-weight: 300; 
   text-align: center; 
@@ -9712,7 +9712,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 
 @media (max-width: 576px) {
   .images-and-words {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     font-size: 3.25vmax;
   }
 }
