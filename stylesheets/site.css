@@ -9717,29 +9717,15 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
-/* REGISTRATION CLOSED TEXT */
+/* CREATE SPACE BETWEEN MODAL TITLE AND BUTTONS */
 
-.registration-closed-big-text {
-  font-size: 1.5rem;
-  font-weight: 300;
-}
-
-.registration-closed-medium-text {
-  font-size: 1.3rem;
-  font-weight: 300;
-}
-
-@media (max-width: 767px) {
-  .registration-closed-big-text {
-    font-size: 1.3rem;
-    text-align: left !important;
-  }
-
-  .registration-closed-medium-text {
-    font-size: 1.15rem;
-    text-align: left !important;
+@media (min-width: 992px) {
+  .modal-title {
+    padding-right: 10px;
   }
 }
+
+/* FLICKR BUTTON */
 
 .btn-flickr {
   color: #fff;
@@ -9769,6 +9755,30 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   background-color: #e61674;
   background-image: none;
   border-color: #d9156e;
+}
+
+/* REGISTRATION CLOSED TEXT */
+
+.registration-closed-big-text {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+.registration-closed-medium-text {
+  font-size: 1.3rem;
+  font-weight: 300;
+}
+
+@media (max-width: 767px) {
+  .registration-closed-big-text {
+    font-size: 1.3rem;
+    text-align: left !important;
+  }
+
+  .registration-closed-medium-text {
+    font-size: 1.15rem;
+    text-align: left !important;
+  }
 }
 
 /*# sourceMappingURL=bootstrap.css.map */
