@@ -5431,17 +5431,16 @@ button.close {
   -webkit-appearance: none;
 }
 
-.modal-open {
-  overflow: hidden;
+body.modal-open {
+    overflow: auto;
 }
-
 body.modal-open[style] {
-    padding-right: 14px !important;
+    padding-right: 0px !important;
 }
 
 .modal::-webkit-scrollbar {
-    width: 0px !important;
-  }
+    width: 0 !important;
+}
 
 .modal {
   position: fixed;
@@ -5474,7 +5473,7 @@ body.modal-open[style] {
 
 .modal-open .modal {
   overflow-x: hidden;
-  overflow-y: scroll;
+  overflow-y: auto;
 }
 
 .modal-dialog {
@@ -9695,6 +9694,88 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   .img-tutorial {
     width: 100% !important;
   }
+}
+
+/* THE ICST 2017 IN IMAGES AND WORDS */
+
+/* TEXT */
+
+.images-and-words {
+  font-weight: 300; 
+  text-align: center; 
+  margin-top: auto !important;
+  margin-bottom: auto !important;
+  padding: 1.25em;
+}
+
+@media (min-width: 1200px) {
+  .images-and-words {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 1199px) {
+  .images-and-words {
+    font-size: 1.3rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .images-and-words {
+    font-size: 0.96rem;
+  }
+}
+
+@media (max-width: 766px) {
+  .images-and-words {
+    font-size: 0.95rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .images-and-words {
+    font-size: 1rem;
+  }
+}
+
+/* CREATE SPACE BETWEEN MODAL TITLE AND BUTTONS */
+
+@media (min-width: 992px) {
+  .modal-title {
+    padding-right: 10px;
+  }
+}
+
+/* FLICKR BUTTON */
+
+.btn-flickr {
+  color: #fff;
+  background-color: #ff1981;
+  border-color: #ff1981;
+}
+
+.btn-flickr:hover {
+  color: #fff;
+  background-color: #e61674;
+  border-color: #d9156e;
+}
+
+.btn-flickr:focus, .btn-flickr.focus {
+  -webkit-box-shadow: 0 0 0 2px rgba(2, 117, 216, 0.5);
+          box-shadow: 0 0 0 2px rgba(2, 117, 216, 0.5);
+}
+
+.btn-flickr.disabled, .btn-flickr:disabled {
+  background-color: #ff1981;
+  border-color: #d9156e;
+}
+
+.btn-flickr:active, .btn-flickr.active,
+.show > .btn-flickr.dropdown-toggle {
+  color: #fff;
+  background-color: #e61674;
+  background-image: none;
+  border-color: #d9156e;
 }
 
 /* REGISTRATION CLOSED TEXT */
