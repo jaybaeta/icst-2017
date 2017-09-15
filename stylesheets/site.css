@@ -9701,8 +9701,6 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 /* TEXT */
 
 .images-and-words {
-  font-size: 1.2rem; 
-  font-size: 1.75vmax;
   font-weight: 300; 
   text-align: center; 
   margin-top: auto !important;
@@ -9710,10 +9708,33 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   padding: 1.25em;
 }
 
-@media (max-width: 576px) {
+@media (min-width: 1200px) {
   .images-and-words {
-    font-size: 1.1rem;
-    font-size: 3.25vmax;
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 1199px) {
+  .images-and-words {
+    font-size: 1.3rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .images-and-words {
+    font-size: 0.98rem;
+  }
+}
+
+@media (max-width: 766px) {
+  .images-and-words {
+    font-size: 0.95rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .images-and-words {
+    font-size: 1rem;
   }
 }
 
