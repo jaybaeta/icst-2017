@@ -37,7 +37,7 @@ This is the website for the International Conference on Science and Technology 2
 
 ### Jumbotron
 
-+ Background is from [Freepik](http://www.freepik.com); slightly modified
++ Background is by Harry via [Freepik](http://www.freepik.com/free-vector/technological-background-with-a-circuit_951745.htm); modified to increase empty space in the centre and fit the image to wide devices.
 
 ### Symposia images
 
