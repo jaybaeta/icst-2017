@@ -9802,4 +9802,54 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
+/*PROCEEDING LIST*/
+.proceeding-list .card {
+  margin-bottom: 0.5rem;
+}
+
+.proceeding-list .card .row{
+  padding: 1rem;
+}
+
+.proceeding-list .card-block {
+  padding: 1rem;
+}
+
+.proceeding-list .card-text {
+  /*color: #868686;*/
+  margin-bottom: 0;
+}
+
+@media(max-width: 992px){
+  .proceeding-list .col-lg-10 {
+    padding-bottom: 0.7rem;
+  }
+}
+
+.proceeding-list .modal-title {
+  font-weight: 400 !important;
+}
+
+.proceeding-list .authors {
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+}
+
+.proceeding-list .affiliation {
+  color: #636c72 !important;
+  line-height: 1;
+  margin-bottom: 0;
+  font-size: 90%;
+}
+
+@media(max-width: 767px){
+  .proceeding-list .affiliation {
+    margin-bottom: 0.25rem;
+  }
+}
+
+.proceeding-list .card-title {
+  font-weight: 400 !important;
+  margin-bottom: 0.5rem;
+}
 /*# sourceMappingURL=bootstrap.css.map */
