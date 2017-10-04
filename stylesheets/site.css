@@ -9817,7 +9817,6 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 }
 
 .article-list .card-text {
-  /*color: #868686;*/
   margin-bottom: 0;
 }
 
@@ -9832,8 +9831,9 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
 }
 
 .article-list .authors {
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.75rem;
   font-weight: 700;
+  line-height: 1.1;
 }
 
 .article-list .affiliation {
@@ -9843,7 +9843,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   font-size: 90%;
 }
 
-@media(max-width: 767px){
+@media (max-width: 767px) {
   .article-list .affiliation {
     margin-bottom: 0.25rem;
   }
@@ -9853,4 +9853,41 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   font-weight: 400 !important;
   margin-bottom: 0.5rem;
 }
+
+/* MODAL */
+
+.article-list .modal-body {
+  padding: 2.5rem 3rem 1rem 3rem;
+}
+
+.article-list .modal-title {
+  margin-bottom: 1rem;
+}
+
+.article-list .modal-body .abstract {
+  margin-top: 1.5rem;
+}
+
+.article-list .modal-footer .btn {
+  font-size: 90%;
+}
+
+.article-list .modal-footer {
+  justify-content: space-between;
+  padding-left: 3rem;
+}
+
+/* BUTTONS TEXT */
+
+@media (max-width: 991px) {
+  .article-list .card-footer {
+    background: transparent;
+    border-top: none;
+  }
+
+  .article-list .card-footer .btn {
+  font-size: 90%;
+  }
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
