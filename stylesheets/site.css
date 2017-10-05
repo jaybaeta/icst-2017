@@ -9802,54 +9802,92 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
-/*PROCEEDING LIST*/
-.proceeding-list .card {
+/* LIST OF ARTICLES */
+
+.article-list .card {
   margin-bottom: 0.5rem;
 }
 
-.proceeding-list .card .row{
+.article-list .card .row{
   padding: 1rem;
 }
 
-.proceeding-list .card-block {
+.article-list .card-block {
   padding: 1rem;
 }
 
-.proceeding-list .card-text {
-  /*color: #868686;*/
+.article-list .card-text {
   margin-bottom: 0;
 }
 
 @media(max-width: 992px){
-  .proceeding-list .col-lg-10 {
+  .article-list .col-lg-10 {
     padding-bottom: 0.7rem;
   }
 }
 
-.proceeding-list .modal-title {
+.article-list .modal-title {
   font-weight: 400 !important;
 }
 
-.proceeding-list .authors {
-  margin-bottom: 0.5rem;
+.article-list .authors {
+  margin-bottom: 0.75rem;
   font-weight: 700;
+  line-height: 1.1;
 }
 
-.proceeding-list .affiliation {
+.article-list .affiliation {
   color: #636c72 !important;
   line-height: 1;
   margin-bottom: 0;
   font-size: 90%;
 }
 
-@media(max-width: 767px){
-  .proceeding-list .affiliation {
+@media (max-width: 767px) {
+  .article-list .affiliation {
     margin-bottom: 0.25rem;
   }
 }
 
-.proceeding-list .card-title {
+.article-list .card-title {
   font-weight: 400 !important;
   margin-bottom: 0.5rem;
 }
+
+/* MODAL */
+
+.article-list .modal-body {
+  padding: 2.5rem 3rem 1rem 3rem;
+}
+
+.article-list .modal-title {
+  margin-bottom: 1rem;
+}
+
+.article-list .modal-body .abstract {
+  margin-top: 1.5rem;
+}
+
+.article-list .modal-footer .btn {
+  font-size: 90%;
+}
+
+.article-list .modal-footer {
+  justify-content: space-between;
+  padding-left: 3rem;
+}
+
+/* BUTTONS TEXT */
+
+@media (max-width: 991px) {
+  .article-list .card-footer {
+    background: transparent;
+    border-top: none;
+  }
+
+  .article-list .card-footer .btn {
+  font-size: 90%;
+  }
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
