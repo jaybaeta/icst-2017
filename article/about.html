@@ -41,13 +41,17 @@
         <ul class="navbar-nav ml-auto text-uppercase">
           <!-- ABOUT -->
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="../article/symposia.html" data-toggle="dropdown">About the conference</a>
+            <a class="nav-link dropdown-toggle" href="../index.html" data-toggle="dropdown">About</a>
             <div class="dropdown-menu" role="menu">
-              <a class="dropdown-item" href="../article/about.html">About</a>
-              <a class="dropdown-item" href="../article/fees.html">Fees</a>
-              <a class="dropdown-item" href="../article/venue.html">Venue</a>
-              <a class="dropdown-item" href="../article/conference-program.html">Program</a>
-              <a class="dropdown-item" href="../article/list-of-presenters.html">List of presenters</a>
+              <span class="dropdown-item disabled" style="color: #7FA3CB;">The conference</span>
+              <a class="dropdown-item" href="../article/about.html">Introduction</a>
+              <a class="dropdown-item" href="../article/venue.html">Conference venue</a>
+              <a class="dropdown-item" href="../article/fees.html">Conference fees</a>
+              <a class="dropdown-item" href="../article/conference-program.html">Conference program</a>
+              <a class="dropdown-item" href="../article/list-of-participants.html">List of participants</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="../article/about-ugm.html">Universitas Gadjah Mada</a>
+              <a class="dropdown-item" href="https://www.yogyes.com/">Yogyakarta</a>
             </div>
           </li>
           <!-- SYMPOSIA -->
@@ -61,6 +65,15 @@
               <a class="dropdown-item" href="../article/geomaritime.html">Geomaritime</a>
               <a class="dropdown-item" href="../article/omics.html">OMICS</a>
               <a class="dropdown-item" href="../article/infrastructure-technology.html">Infrastructure Technology</a>
+            </div>
+          </li>
+          <!-- PUBLICATIONS -->
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="../article/publications.html" data-toggle="dropdown">Publications</a>
+            <div class="dropdown-menu" role="menu">
+              <a class="dropdown-item" href="../article/publications.html">All publications</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="../article/ieee.html">IEEE</a>
             </div>
           </li>
           <!-- PRESENTERS -->
@@ -98,14 +111,6 @@
               <span class="dropdown-item disabled" style="color: rgba(0,0,0,0.2); cursor:not-allowed">Register now</span>
             </div>
           </li>
-          <!-- EXPLORE -->
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="../index.html" data-toggle="dropdown">Explore</a>
-            <div class="dropdown-menu" role="menu">
-              <a class="dropdown-item" href="../article/about-ugm.html">Universitas Gadjah Mada</a>
-              <a class="dropdown-item" href="https://www.yogyes.com/">Yogyakarta</a>
-            </div>
-          </li>
           <!-- MEDIA -->
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="index.html" data-toggle="dropdown">Media</a>
@@ -122,16 +127,16 @@
               <div class="dropdown-divider"></div>
               <a class="dropdown-item" href="../downloads/ICST2017-abstract-book.pdf">Abstract book</a>
               <a class="dropdown-item" href="../downloads/ANNUM-2017.pdf">ANNUM poster</a>
-              <!-- <a class="dropdown-item" href="../downloads/ICST2017-IJC-guidelines.zip">ANNUM guidelines</a> -->
-              <!-- <a class="dropdown-item" href="../downloads/ComputerSymposiumGuidelines.zip">Computer guidelines</a> -->
+              <a class="dropdown-item" href="../downloads/ICST2017-IJC-guidelines.zip">ANNUM guidelines</a>
+              <a class="dropdown-item" href="../downloads/ComputerSymposiumGuidelines.zip">Computer guidelines</a>
+              <a class="dropdown-item" href="../downloads/ICST2017-conference-kit.zip">Conference kit</a>
               <a class="dropdown-item" href="../downloads/ICST2017-program.pdf">Conference program</a>
-              <a class="dropdown-item" href="../downloads/ICST2017-conference-kit.zip">Conference kit (inc. abstract book, program, and list of presenters)</a>
-              <!-- <a class="dropdown-item" href="../downloads/epaper-guidebook.pdf">ePaper guidebook</a> -->
-              <!-- <a class="dropdown-item" href="../downloads/ICST2017-IJG-guidelines.zip">Geomaritime guidelines</a> -->
-              <!-- <a class="dropdown-item" href="../downloads/ICST2017-poster.png">ICST 2017 poster</a> -->
-              <!-- <a class="dropdown-item" href="../downloads/ICST2017-infrastructure-technology.zip">Infrastructure Technology template</a> -->
+              <a class="dropdown-item" href="../downloads/epaper-guidebook.pdf">ePaper guidebook</a>
+              <a class="dropdown-item" href="../downloads/ICST2017-IJG-guidelines.zip">Geomaritime guidelines</a>
+              <a class="dropdown-item" href="../downloads/ICST2017-poster.png">ICST 2017 poster</a>
+              <a class="dropdown-item" href="../downloads/ICST2017-infrastructure-technology.zip">Infrastructure Technology template</a>
               <a class="dropdown-item" href="../downloads/ICST2017-list-of-presenters.pdf">List of presenters</a>
-              <!-- <a class="dropdown-item" href="../downloads/ICST2017-IJBiotech-guidelines.zip">OMICS guidelines</a> -->
+              <a class="dropdown-item" href="../downloads/ICST2017-IJBiotech-guidelines.zip">OMICS guidelines</a>
               <a class="dropdown-item" href="../downloads/ICST2017-presentation-guidelines.pdf">Presentation guidelines</a>
             </div>
           </li>
@@ -244,7 +249,7 @@
       </div>
 
     <!-- FOOTER -->
-    <footer class="footer mt-5">
+    <footer class="footer">
       <div class="container py-4" style="background-color: #f8f7fd;">
         <div class="row">
           <div class="col-sm-12 text-center">
@@ -259,33 +264,48 @@
         </div>
         <div class="row pt-2">
           <div class="col-md-3">
-            <h5><b>Explore</b></h5>
-            <p style="line-height: 2;"><a href="http://ugm.ac.id/id/video/24-video.profil.ugm.mengakar.kuat.menjulang.tinggi">Universitas Gadjah Mada</a> <br>
-            <a href="https://www.yogyes.com/">The city of Yogyakarta</a></p>
+            <h5><b>The Conference</b></h5>
+            <p style="line-height: 2;">
+              <a href="../article/about.html">About</a> <br>
+              <a href="../article/venue.html">Venue</a> <br>
+              <a href="../article/fees.html">Fees</a> <br>
+              <a href="../article/symposia.html">Symposia</a> <br>
+              <a href="../article/publications.html">Publications</a> <br>
+              <a href="../article/downloads.html">Downloads</a>
+            </p>
           </div>
           <div class="col-md-3">
             <h5><b>Connect</b></h5>
-            <p style="line-height: 2;"><i class="fa fa-envelope fa-fw" aria-hidden="true"></i>&nbsp;<a href="mailto:icst@ugm.ac.id">icst@ugm.ac.id</a><br>
-            <i class="fa fa-phone fa-fw" aria-hidden="true"></i>&nbsp;+6285736991226 (Akhsin Nurlayli) <br>
-            <i class="fa fa-twitter fa-fw" aria-hidden="true"></i>&nbsp;<a href="https://twitter.com/icstugm">@icstugm</a><br>
-            <i class="fa fa-twitter fa-fw" aria-hidden="true"></i>&nbsp;<a href="https://twitter.com/BPP_UGM">@BPP_UGM</a><br>
-            <i class="fa fa-twitter fa-fw" aria-hidden="true"></i>&nbsp;<a href="https://twitter.com/UGMYogyakarta">@UGMYogyakarta</a><br>
-            <i class="fa fa-facebook-square fa-fw" aria-hidden="true"></i>&nbsp;<a href="https://www.facebook.com/UGMYogyakarta">@UGMYogyakarta</a></p>
+            <p style="line-height: 2;">
+              <i class="fa fa-envelope fa-fw" aria-hidden="true"></i>&nbsp;<a href="mailto:icst@ugm.ac.id">icst@ugm.ac.id</a><br>
+              <i class="fa fa-phone fa-fw" aria-hidden="true"></i>&nbsp;+6285736991226 (Akhsin Nurlayli) <br>
+              <i class="fa fa-twitter fa-fw" aria-hidden="true"></i>&nbsp;<a href="https://twitter.com/icstugm">@icstugm</a><br>
+              <i class="fa fa-instagram fa-fw" aria-hidden="true"></i>&nbsp;<a href="https://instagram.com/icstugm">icstugm</a><br>
+              <i class="fa fa-twitter fa-fw" aria-hidden="true"></i>&nbsp;<a href="https://twitter.com/BPP_UGM">@BPP_UGM</a><br>
+              <i class="fa fa-twitter fa-fw" aria-hidden="true"></i>&nbsp;<a href="https://twitter.com/UGMYogyakarta">@UGMYogyakarta</a>
+            </p>
           </div>
           <div class="col-md-3">
-            <h5><b>The Conference</b></h5>
-            <p style="line-height: 2;"><a href="../article/fees.html">Fees</a> <br>
-            <a href="../article/venue.html">Venue</a> <br>
-            <a href="../article/symposia.html">Symposia</a> <br>
-            <a href="../article/downloads.html">Downloads</a> <br>
-            <a href="../article/registration-is-closed.html">Register</a></p>
+            <h5><b>Explore</b></h5>
+            <p style="line-height: 2;">
+              <a href="http://ugm.ac.id/id/video/24-video.profil.ugm.mengakar.kuat.menjulang.tinggi">Universitas Gadjah Mada</a> <br>
+              <a href="https://www.yogyes.com/">The city of Yogyakarta</a>
+            </p>
+            <h5><b>Media</b></h5>
+            <p style="line-height: 2;">
+              <a href="../article/icst-2017-in-images-and-words.html">Relive the ICST 2017</a>
+            </p>
           </div>
           <div class="col-md-3">
-            <p class="text-center"><img src="../images/logos/logo.svg" class="mb-2" height="55px"> <br></p>
-            <p><b>Chairman:</b> Prof. Dr. Jumina <br>
-            <b>Co-Chairman:</b> Dr. Roto <br>
-            <b>Secretary:</b> Dr. Ahmad Kusumaatmaja <br>
-            <b>Scientific Committee:</b> Dr. Indriana Kartini, M.Sc &amp; Dr. Eng. I Wayan Mustika</p>  
+            <p class="text-center">
+              <img src="../images/logos/logo.svg" class="mb-2" height="55px"> <br>
+            </p>
+            <p>
+              <b>Chairman:</b> Prof. Dr. Jumina <br>
+              <b>Co-Chairman:</b> Dr. Roto <br>
+              <b>Secretary:</b> Dr. Ahmad Kusumaatmaja <br>
+              <b>Scientific Committee:</b> Dr. Indriana Kartini, M.Sc &amp; Dr. Eng. I Wayan Mustika
+            </p>  
           </div>
         </div>
         <div class="row">
