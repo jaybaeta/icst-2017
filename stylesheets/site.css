@@ -9790,9 +9790,9 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   font-weight: 300;
 }
 
-  .registration-closed-logo {
-    width: 50%;
-  }
+.registration-closed-logo {
+  width: 50%;
+}
 
 @media (max-width: 767px) {
   .registration-closed-big-text {
